@@ -18,67 +18,67 @@
 (deffacts Familia
 
  (Persona
-    (nombre "Juan Leyva Moraleda")
+    (nombre "Juan Leyva")
     (edad  67)
-    (conyuge "Rafaela Lirio Rodriguez"))
+    (conyuge "Rafaela Lirio"))
 
   (Persona
-    (nombre "Rafaela Lirio Rodriguez")
+    (nombre "Rafaela Lirio")
     (edad 66)
-    (conyuge "Juan Leyva Moraleda")
+    (conyuge "Juan Leyva")
   )
 
   (Persona
-    (nombre "Tomas Ruiz Millan")
+    (nombre "Tomas Ruiz")
     (edad 78)
-    (conyuge "Mercedes Rodriguez Gonzalez"))
+    (conyuge "Mercedes Rodriguez"))
 
   (Persona
-    (nombre "Mercedes Rodriguez Gonzalez")
+    (nombre "Mercedes Rodriguez")
     (edad 76)
-    (conyuge "Tomas Ruiz Millan"))
+    (conyuge "Tomas Ruiz"))
 
   (Persona
-    (nombre "Pepi Ruiz Rodriguez")
+    (nombre "Pepi Ruiz")
     (edad 44)
-    (padre "Tomas Ruiz Millan")
-    (conyuge "Antonio Leyva Lirio"))
+    (padre "Tomas Ruiz")
+    (conyuge "Antonio Leyva"))
 
   (Persona
-    (nombre "Andres Ruiz Rodriguez")
+    (nombre "Andres Ruiz")
     (edad 47)
-    (padre "Tomas Ruiz Millan")
+    (padre "Tomas Ruiz")
     (conyuge "Teresa Sierra"))
 
   (Persona
     (nombre "Teresa Sierra")
     (edad 42)
-    (conyuge "Andres Ruiz Rodriguez"))
+    (conyuge "Andres Ruiz"))
 
   (Persona
-    (nombre "Antonio Leyva Lirio")
+    (nombre "Antonio Leyva")
     (edad 47)
-    (padre "Juan Leyva Moraleda")
-    (conyuge "Pepi Ruiz Rodiguez")
+    (padre "Juan Leyva")
+    (conyuge "Pepi Ruiz")
   )
 
   (Persona
-    (nombre "Juan Leyva Lirio")
+    (nombre "Juan Leyva")
     (edad 39)
-    (padre "Juan Leyva Moraleda")
+    (padre "Juan Leyva")
     (conyuge "Maria Jose Mendoza"))
 
   (Persona
-    (nombre "Juana Leyva Lirio")
+    (nombre "Juana Leyva")
     (edad 42)
-    (padre "Juan Leyva Moraleda")
+    (padre "Juan Leyva")
     (conyuge "Fran Castillo")
   )
 
   (Persona
     (nombre "Maria Jose Mendoza")
     (edad 40)
-    (conyuge "Juan Leyva Lirio"))
+    (conyuge "Juan Leyva"))
 
   (Persona
     (nombre "Fran Castillo")
@@ -88,56 +88,56 @@
   (Persona
     (nombre "Rafa Leyva Ruiz")
     (edad 20)
-    (padre "Antonio Leyva Lirio"))
+    (padre "Antonio Leyva"))
 
   (Persona
-    (nombre "Jose Antonio Leyva Ruiz")
+    (nombre "Jose Antonio Leyva")
     (edad 18)
-    (padre "Antonio Leyva Lirio"))
+    (padre "Antonio Leyva"))
 
   (Persona
-    (nombre "Andres Leyva Ruiz")
+    (nombre "Andres Leyva")
     (edad 16)
-    (padre "Antonio Leyva Lirio"))
+    (padre "Antonio Leyva"))
 
   (Persona
-    (nombre "Mercedes Leyva Ruiz")
+    (nombre "Mercedes Leyva")
     (edad 8)
-    (padre "Antonio Leyva Lirio"))
+    (padre "Antonio Leyva"))
 
 
   (Persona
-    (nombre "Teresa Ruiz Sierra")
+    (nombre "Teresa Ruiz")
     (edad 22)
-    (padre "Andres Ruiz Rodriguez"))
+    (padre "Andres Ruiz"))
 
   (Persona
-    (nombre "Andrea Ruiz Sierra")
+    (nombre "Andrea Ruiz")
     (edad 19)
-    (padre "Andres Ruiz Rodriguez"))
+    (padre "Andres Ruiz"))
 
   (Persona
-    (nombre "Alejandro Ruiz Sierra")
+    (nombre "Alejandro Ruiz")
     (edad 12)
-    (padre "Andres Ruiz Rodriguez"))
+    (padre "Andres Ruiz"))
 
   (Persona
-    (nombre "Juan Jose Leyva Mendoza")
+    (nombre "Juan Jose Leyva")
     (edad 15)
-    (padre "Juan Leyva Lirio"))
+    (padre "Juan Leyva"))
 
   (Persona
-    (nombre "Maria Jose Leyva Mendoza")
+    (nombre "Maria Jose Leyva")
     (edad 8)
-    (padre "Juan Leyva Lirio"))
+    (padre "Juan Leyva"))
 
   (Persona
-    (nombre "Juana Castillo Leyva")
+    (nombre "Juana Castillo")
     (edad 7)
     (padre "Fran Castillo"))
 
   (Persona
-    (nombre "Lucia Leyva Castillo")
+    (nombre "Lucia Leyva")
     (edad 9)
     (padre "Fran Castillo"))
 )
